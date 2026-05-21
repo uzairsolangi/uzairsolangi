@@ -13,15 +13,14 @@
 
 ### About Me
 
-I'm a Software Engineering student at **Mehran University of Engineering & Technology (MUET)**, Jamshoro, Pakistan — passionate about building web applications with a strong focus on backend development.
+I'm a Software Engineering student at **MUET, Jamshoro**. I enjoy building web apps and tend to gravitate toward the backend side of things. Currently interning at **RedSecLabs** as a Web Development Intern, putting what I've learned into practice.
 
-- 💻 **Web Developer** with a backend-first approach
-- 🔧 Working with **Python, Flask, REST APIs, SQL & more**
-- 🌐 Frontend experience with **React, HTML/CSS/JS**
-- 💼 **Web Development Intern @ RedSecLabs**
-- 🏛️ Director at **MUET Software Engineering Society**
+- 💻 Web Developer, backend-first
+- 🔧 Comfortable with **Python, Flask, REST APIs, SQL** and the usual suspects
+- 🌐 Can hold my own on the frontend with **React, HTML/CSS/JS**
+- 🏛️ Director at the **MUET Software Engineering Society**
 - 🎓 Harvard CS50x Certificate
-- 🎮 Gamer in my free time
+- 🎮 Gamer when I'm not coding
 
 ---
 
@@ -34,6 +33,7 @@ I'm a Software Engineering student at **Mehran University of Engineering & Techn
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frontend**
 
@@ -55,23 +55,16 @@ I'm a Software Engineering student at **Mehran University of Engineering & Techn
 #### 🎬 [CineShelf](https://github.com/uzairsolangi/cineshelf)
 > Full-stack movie tracker web app
 
-A complete web application built with **Flask + React/Vite**. Features user authentication with JWT, watchlist management, and TMDB API integration.
+Built with **Flask + React/Vite**, handles user auth via JWT, lets you manage a personal watchlist, and pulls movie data from the TMDB API.
 
 `Flask` `SQLAlchemy` `JWT` `React` `Vite` `REST API` `SQLite`
 
----
-
-### 📊 GitHub Stats
-
-![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzairsolangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairsolangi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Reach Me
 
-- LinkedIn: [linkedin.com/in/uzairsolangi](https://www.linkedin.com/in/allah-dino-uzair/)
+- LinkedIn: [linkedin.com/in/allah-dino-uzair](https://www.linkedin.com/in/allah-dino-uzair/)
 - GitHub: [github.com/uzairsolangi](https://github.com/uzairsolangi)
 
 ---
