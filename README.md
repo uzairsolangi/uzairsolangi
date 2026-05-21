@@ -4,7 +4,7 @@
 
 **Web Developer · Backend Focus · SWE Student at MUET**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzairsolangi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allah-dino-uzair/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uzairsolangi)
 
 </div>
@@ -63,19 +63,15 @@ A complete web application built with **Flask + React/Vite**. Features user auth
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
 ![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzairsolangi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uzairsolangi&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
 ### 📫 Reach Me
 
-- LinkedIn: [linkedin.com/in/uzairsolangi](https://linkedin.com/in/uzairsolangi)
+- LinkedIn: [linkedin.com/in/uzairsolangi](https://www.linkedin.com/in/allah-dino-uzair/)
 - GitHub: [github.com/uzairsolangi](https://github.com/uzairsolangi)
 
 ---
