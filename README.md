@@ -20,7 +20,6 @@ I'm a Software Engineering student at **MUET, Jamshoro**. I enjoy building web a
 - 🌐 Can hold my own on the frontend with **React, HTML/CSS/JS**
 - 🏛️ Director at the **MUET Software Engineering Society**
 - 🎓 Harvard CS50x Certificate
-- 🎮 Gamer when I'm not coding
 
 ---
 
