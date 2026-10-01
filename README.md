@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm a Software Engineering student at **MUET, Jamshoro**. I enjoy building web apps and tend to gravitate toward the backend side of things. Currently interning at **RedSecLabs** as a Web Development Intern, putting what I've learned into practice.
+I'm a Software Engineering student at **MUET, Jamshoro**. I enjoy building web apps and tend to gravitate toward the backend side of things.
 
 - 💻 Web Developer, backend-first
 - 🔧 Comfortable with **Python, Flask, REST APIs, SQL** and the usual suspects
